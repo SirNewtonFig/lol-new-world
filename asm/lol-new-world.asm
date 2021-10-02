@@ -6,6 +6,7 @@ incsrc "defs.asm"
 ; individual patches to include
 incsrc "patches/auto-morph.asm"
 incsrc "patches/half-atb-brushes.asm"
+incsrc "patches/half-atb-stumble.asm"
 incsrc "patches/uncapped-drain.asm"
 
 ; on loan from Bropedio; I haven't scrutinized these, just assuming they're going to work as advertised

@@ -2,3 +2,5 @@
 !Automorph_freeXX = $EFFD7A
 
 !HalfTurnBrushes_freespace = $EFFDA5
+
+!HalfTurnStumble_freespace = $EFFDB5
