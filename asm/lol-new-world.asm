@@ -9,6 +9,7 @@ incsrc "patches/half-atb-brushes.asm"
 incsrc "patches/half-atb-stumble.asm"
 incsrc "patches/uncapped-drain.asm"
 incsrc "patches/battle-bg-dance-mappings.asm"
+incsrc "patches/tiered-status.asm"
 
 ; on loan from Bropedio; I haven't scrutinized these, just assuming they're going to work as advertised
 incsrc "patches/Bropedio/golem-restrictions.asm"
