@@ -27,14 +27,15 @@ StamCheck:
       PHA               ; Store attack status bits
       PHX               ; Store bit index
       TYA               ; Get byte index
-      ASL : ASL : ASL   ; x8
+      rep 3 : ASL       ; x8
       CLC
       ADC $01,S         ; Add bit index
       TAX
       LDA.l StamVals,X  ; Get threshold for status
       CMP $03,S         ; Compare with stored threshold
-      BCC .nextloop     ; Skip if stored threshold already higher
+      BCC .nostore      ; Skip if stored threshold already higher
       STA $03,S         ; Store new threshold
+    .nostore
       PLX               ; Restore bit index
       PLA               ; Restore attack status bits
     .nextloop
