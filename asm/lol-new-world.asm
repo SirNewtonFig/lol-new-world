@@ -11,6 +11,7 @@ incsrc "patches/uncapped-drain.asm"
 incsrc "patches/battle-bg-dance-mappings.asm"
 incsrc "patches/tiered-status.asm"
 incsrc "patches/el-tweaks.asm"
+incsrc "patches/stam-dog-block.asm"
 
 ; on loan from Bropedio; I haven't scrutinized these, just assuming they're going to work as advertised
 incsrc "patches/Bropedio/golem-restrictions.asm"
