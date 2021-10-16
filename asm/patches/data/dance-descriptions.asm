@@ -3,8 +3,8 @@ org $C4AFC3
 table c3.tbl,rtl
 
 dw Earth : dw Fire
-dw Water : dw Wind
-dw Love : dw Ruin
+dw Wind : dw Water
+dw Ruin : dw Love
 dw Soul : dw Mad
 
 ; Alternate format: odds prefixed
@@ -21,10 +21,10 @@ dw Soul : dw Mad
 ; Current format: odds suffixed
 Earth: db "Harvester: 7/16, Razor Leaf: 5/16",$01,"Moonlight: 3/16, Raccoon: 1/16",$00
 Fire: db "Fireball: 7/16, Elf Fire: 5/16",$01,"Mirage: 3/16, Meerkat: 1/16",$00
-Water: db "El Nino: 7/16, Plasma: 5/16",$01,"Surge: 3/16, Toxic Frog: 1/16",$00
 Wind: db "Mirage: 7/16, Sun Bath: 5/16",$01,"Wind Slash: 3/16, Rabbit: 1/16",$00
+Water: db "El Nino: 7/16, Plasma: 5/16",$01,"Surge: 3/16, Toxic Frog: 1/16",$00
 
-Love: db "Sun Bath: 7/16, Moonlight: 5/16",$01,"Harvester: 3/16, Cockatrice: 1/16",$00
 Ruin: db "Avalanche: 7/16, Surge: 5/16",$01,"Sirocco: 3/16, Wild Boars: 1/16",$00
+Love: db "Sun Bath: 7/16, Moonlight: 5/16",$01,"Harvester: 3/16, Cockatrice: 1/16",$00
 Soul: db "Bedevil: 7/16, Elf Fire: 5/16",$01,"Devour: 3/16, Tapir: 1/16",$00
 Mad: db "Cadenza: 7/16, Devour: 5/16",$01,"Sirocco: 3/16, Wombat: 1/16",$00
