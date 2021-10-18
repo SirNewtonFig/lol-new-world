@@ -14,6 +14,7 @@ incsrc "patches/el-tweaks.asm"
 incsrc "patches/stam-dog-block.asm"
 incsrc "patches/vigor-based-counter.asm"
 incsrc "patches/runic-counter.asm"
+incsrc "patches/tweak-stumble-rate.asm"
 incsrc "patches/data/dance-descriptions.asm"
 
 ; on loan from Bropedio; I haven't scrutinized these, just assuming they're going to work as advertised
