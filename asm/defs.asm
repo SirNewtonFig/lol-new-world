@@ -7,4 +7,5 @@
 !StamDogBlock_freeXX = $EFFDC2
 !HalfTurnBrushes_freespace = $EFFDA5
 !HalfTurnStumble_freespace = $EFFDB5
-
+!RunicCounter_freespace = $EFFDD2
+; next: $EFFDEE
