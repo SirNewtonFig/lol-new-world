@@ -8,4 +8,7 @@
 !HalfTurnBrushes_freespace = $EFFDA5
 !HalfTurnStumble_freespace = $EFFDB5
 !RunicCounter_freespace = $EFFDD2
-; next: $EFFDEE
+!HalfTurnBlitz_freespace = $EFFDEE
+; next = $EFFDFB
+
+
