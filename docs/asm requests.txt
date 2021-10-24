@@ -3,15 +3,8 @@ CANNOT RELEASE LOL NEW WORLD WITHOUT THESE
 	Tiered Status Evade:	By Status, rather than by enemy
 							Breakpoints I believe should be 72, 108, and 128
 							72 breakpoint should be "must pass two checks" (hard test)
-
-	Interceptor:			Interceptor status on Memento Ring or something
-							Relmception's attack goes to mag-based, 90 power (I'll handle this)
-						
-	Elemental Multiplier:	Stacks like normal multipliers, instead of being separate
 								
 	Morph					MP cost increased by 50% when under Morph
-	
-	Runic:					May counter-attack after absorbing a spell
 
 	Locke:					Only Locke may use stealable-only items.
 								Slim Jim = Changed to just setting its statuses (Regen & Haste). Brawlers, Soldiers
@@ -30,8 +23,6 @@ WOULD BE NICE, BUT NOT STRICTLY REQUIRED FOR RELEASE OF LOL NEW WORLD
 
 	Heiji's Coin:			Cheats on Cover and Counter
 	
-	Blitz:					Half-turn failure
-	
 	Duncan:					Gives Gauntlent effect to physical Blitzes instead of giving Bum Rush
 							MY END would be setting Bum Rush to lvl.30 capstone, 210 power
 					
@@ -45,7 +36,8 @@ WOULD BE NICE, BUT NOT STRICTLY REQUIRED FOR RELEASE OF LOL NEW WORLD
 	Rage:					Has stam-based chance of coming out of Rage 
 							if Moogle Charm is equipped.
 	
-	Criticals:				Speed-based criticals. spd/512
-							Equipment flag for "critical rate up". +6.25% to crit rate. (Equivalent to +32 speed)
+	Rage:					Rage may crit
+							
+	Gau Rage:				Rage attacks may crit (natural crit rate, boosted by "critical rate up")
 							
 	Retort:					Balanced Retort discussed. Prolly increase Cover/Counter, self-heal, counters with Dispatch?
