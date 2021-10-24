@@ -17,6 +17,7 @@ incsrc "patches/runic-counter.asm"
 incsrc "patches/tweak-stumble-rate.asm"
 incsrc "patches/crit-fishing.asm"
 incsrc "patches/not-so-near-fatal.asm"
+incsrc "patches/half-atb-blitz-failure.asm"
 
 incsrc "patches/data/dance-descriptions.asm"
 
