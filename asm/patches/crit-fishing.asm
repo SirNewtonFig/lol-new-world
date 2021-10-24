@@ -1,7 +1,10 @@
+org $C21610
+  SkipDA:             ; convenience label
+
 org $C215E9           ; Putting some DA-related code back in its original position
   JSR $4B5A           ; Random number 0 to 255
   AND #$0F            ; 0 to 15
-  BNE $1610           ; 1 in 16 chance for DA
+  BNE SkipDA          ; 1 in 16 chance for DA
   LDA $3018,Y         ; Current character bit
 
 org $C233FC
