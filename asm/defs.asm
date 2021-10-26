@@ -1,14 +1,15 @@
-!Automorph_freeC2 = $C2FC10     ; 7 bytes free; we'll use 5
-!TieredStatus_freeC2 = $C2515D  ; 4 bytes
-!StamDogBlock_freeC2 = $C23C6E  ; 7 bytes; we'll use 4
+!Automorph_freeC2 = $C2FC10     ; uses 5/7 bytes
+!TieredStatus_freeC2 = $C2515D  ; uses 4/4 bytes
+!StamDogBlock_freeC2 = $C23C6E  ; uses 5/7 bytes
 
-!Automorph_freeXX = $EFFD7A
 !TieredStatus_freeXX = $EFFBDA
-!StamDogBlock_freeXX = $EFFDC2
+!Automorph_freeXX = $EFFD7A
 !HalfTurnBrushes_freespace = $EFFDA5
 !HalfTurnStumble_freespace = $EFFDB5
+!StamDogBlock_freeXX = $EFFDC2
 !RunicCounter_freespace = $EFFDD2
 !HalfTurnBlitz_freespace = $EFFDEE
-; next = $EFFDFB
+!MorphMPTurbo_freespace = $EFFDFB
+; next = $EFFE48
 
 
