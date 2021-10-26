@@ -3,8 +3,6 @@ CANNOT RELEASE LOL NEW WORLD WITHOUT THESE
 	Tiered Status Evade:	By Status, rather than by enemy
 							Breakpoints I believe should be 72, 108, and 128
 							72 breakpoint should be "must pass two checks" (hard test)
-								
-	Morph					MP cost increased by 50% when under Morph
 
 	Locke:					Only Locke may use stealable-only items.
 								Slim Jim = Changed to just setting its statuses (Regen & Haste). Brawlers, Soldiers
@@ -23,21 +21,21 @@ WOULD BE NICE, BUT NOT STRICTLY REQUIRED FOR RELEASE OF LOL NEW WORLD
 
 	Heiji's Coin:			Cheats on Cover and Counter
 	
-	Duncan:					Gives Gauntlent effect to physical Blitzes instead of giving Bum Rush
-							MY END would be setting Bum Rush to lvl.30 capstone, 210 power
-					
 	Tools:					Autocrossbow's power is just straight 255, no Schematics
-							Something, something, Schematics boosts magic tools
-							Schematics hidden ... somewhere
+
+	Rage:					Has stam-based chance of coming out of Rage 
+								if Moogle Charm is equipped.
+							Rage attacks may crit (natural crit rate, boosted by "critical rate up")
+							
+	Retort:					Balanced Retort discussed. Prolly increase Cover/Counter, self-heal, counters with Dispatch?
+	
+UNDEVELOPED IDEAS
 
 	Slots:					something, something, gains "Schematics" boost somewhere
 							Really, just gains more slots later on?
-
-	Rage:					Has stam-based chance of coming out of Rage 
-							if Moogle Charm is equipped.
-	
-	Rage:					Rage may crit
 							
-	Gau Rage:				Rage attacks may crit (natural crit rate, boosted by "critical rate up")
+	Duncan:					Gives Gauntlent effect to physical Blitzes instead of giving Bum Rush
+							MY END would be setting Bum Rush to lvl.30 capstone, 210 power
 							
-	Retort:					Balanced Retort discussed. Prolly increase Cover/Counter, self-heal, counters with Dispatch?
+	Tools:					Something, something, Schematics boosts magic tools
+							Schematics hidden ... somewhere
