@@ -19,6 +19,7 @@ incsrc "patches/crit-fishing.asm"
 incsrc "patches/not-so-near-fatal.asm"
 incsrc "patches/half-atb-blitz-failure.asm"
 incsrc "patches/morph-mp-turbo.asm"
+incsrc "patches/individual-reprisal.asm"
 
 ; data/description edits
 incsrc "patches/data/dance-descriptions.asm"

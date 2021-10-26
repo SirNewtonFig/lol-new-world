@@ -10,6 +10,7 @@
 !RunicCounter_freespace = $EFFDD2
 !HalfTurnBlitz_freespace = $EFFDEE
 !MorphMPTurbo_freespace = $EFFDFB
-; next = $EFFE48
+!IndividulReprisal_freespace = $EFFE48
+; next = $EFFE56
 
 
