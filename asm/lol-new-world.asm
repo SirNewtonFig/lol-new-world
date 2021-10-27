@@ -38,7 +38,10 @@ incsrc "patches/morph-mp-turbo.asm"
 !IndividulReprisal_freespace = MorphMPTurbo_EOF
 incsrc "patches/individual-reprisal.asm"
 
-; next = IndividualReprisal_EOF
+!HalfTurnItemFlag_freespace = IndividualReprisal_EOF
+incsrc "patches/half-turn-item-flag.asm"
+
+; next = HalfTurnItemFlag_EOF
 
 
 ; inline patches (no new freespace claimed):
