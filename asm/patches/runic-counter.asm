@@ -28,3 +28,5 @@ BlackBeltCheck:
   AND #$08      ; test if Runic triggered
   CMP #$08      ; Z = 0 if Runic did not trigger
 + RTL
+
+RunicCounter_EOF:

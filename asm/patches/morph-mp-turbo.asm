@@ -82,3 +82,5 @@ LoreMenuSlice:        ; display 1.5x MP cost in Lore menu, if needed
   JSR TurboWrapper
   STA $6178
   RTL
+
+MorphMPTurbo_EOF:
