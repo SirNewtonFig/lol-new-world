@@ -20,3 +20,5 @@ ShadowCheck:
   PLX
   CMP #$03        ; Shadow actor index
   RTL             ; Z flag set if target actor is Shadow
+
+IndividualReprisal_EOF:

@@ -57,3 +57,6 @@ StamCheck:
 
 StamVals:
   incsrc "data/status-thresholds.asm"
+
+TieredStatus_EOF:
+

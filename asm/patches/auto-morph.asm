@@ -34,3 +34,6 @@ AutomorphImmune:
   BCS +               ; branch to morph if permamorph set
   JML $C2268E         ; skip
 + JML $C2268A         ; set morph immunity
+
+Automorph_EOF:
+

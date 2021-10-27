@@ -6,8 +6,7 @@ org !HalfTurnBlitz_freespace
 BlitzSlice:
   LDA #$43
   STA $3401         ; Set to display text "Incorrect Blitz input!"
-  PHX
-  TYX
-  JSL $C18A0E       ; Reimburse half ATB
-  PLX
+  JSR HalfATBY      ; set ATB to 50%
   RTL
+
+HalfATBBlitzFailure_EOF:

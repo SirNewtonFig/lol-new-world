@@ -17,3 +17,5 @@ org !StamDogBlock_freeXX
   PLA                 ; Discard stashed RNG result
   PLA
   RTL
+
+StamDogBlock_EOF:
