@@ -1,33 +1,20 @@
-CANNOT RELEASE LOL NEW WORLD WITHOUT THESE
+CANNOT RELEASE NEXT VERSION WITHOUT THESE
 
-	Tiered Status Evade:	By Status, rather than by enemy
-							Breakpoints I believe should be 72, 108, and 128
-							72 breakpoint should be "must pass two checks" (hard test)
-
-	Locke:					Only Locke may use stealable-only items.
-								Slim Jim = Changed to just setting its statuses (Regen & Haste). Brawlers, Soldiers
-								Snake Oil = Reduced to 1/4 heal. Merchants, Zozo
-								Bio Bomb = Single-targets, sets Blind / Mute / Imp. Late WoB (ghost dudes)
-								Bouncy Ball = Steal only. WoR
-								Mystery Egg = Consumable, summons Palidor. WoR
-							Humanoids only have Locke stealables, and only one Item to steal
-								(this one is my end, not yours)
-							Steal formula has spd-based chance of success
-								
-
-WOULD BE NICE, BUT NOT STRICTLY REQUIRED FOR RELEASE OF LOL NEW WORLD
-						
-	Back Guard:				Doesn't completely eliminate chances of a back / pincer attack.
-
-	Heiji's Coin:			Cheats on Cover and Counter
-	
-	Tools:					Autocrossbow's power is just straight 255, no Schematics
+	Fractional Defense:		Damage taken from fractional damage is Power * (160-stam)/128
 
 	Rage:					Has stam-based chance of coming out of Rage 
 								if Moogle Charm is equipped.
 							Rage attacks may crit (natural crit rate, boosted by "critical rate up")
 							
 	Retort:					Balanced Retort discussed. Prolly increase Cover/Counter, self-heal, counters with Dispatch?
+	
+	Tools:					Autocrossbow's power is just straight 255, no Schematics
+
+WOULD BE NICE, BUT NOT STRICTLY REQUIRED FOR RELEASE OF LOL NEW WORLD
+						
+	Back Guard:				Doesn't completely eliminate chances of a back / pincer attack.
+
+	Heiji's Coin:			Cheats on Cover and Counter
 	
 UNDEVELOPED IDEAS
 
