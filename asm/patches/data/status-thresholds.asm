@@ -3,38 +3,26 @@
 ; These definitions may be re-ordered as you like, to
 ; make it easier to edit it an organized fashion.
 
-; universals
+; hard
 !ST_Sap        = $80
 !ST_Slow       = $80
+!ST_Death      = $80
+!ST_Freeze     = $80
+!ST_Zombie     = $80
 
-; instant death
-!ST_Death      = $78
-!ST_Condemned  = $78
+; medium
+!ST_Condemned  = $68
+!ST_Petrify    = $68
+!ST_Muddle     = $68
+!ST_Berserk    = $68
+!ST_Sleep      = $68
 
-; death-like
-!ST_Zombie     = $70
-!ST_Petrify    = $70
-
-; stop-like
-!ST_Freeze     = $68
-!ST_Stop       = $68
-
-; loss of control
-!ST_Muddle     = $60
-!ST_Berserk    = $60
-!ST_Dance      = $60
-!ST_Rage       = $60
-
-; nuisance
-!ST_Poison     = $54
-!ST_Sleep      = $54
-
-; action denial
+; easy
+!ST_Stop       = $50
+!ST_Poison     = $50
 !ST_Mute       = $50
 !ST_Blind      = $50
-
-; piss off
-!ST_Imp        = $48
+!ST_Imp        = $50
 
 
 ; Everything else is either a positive status, or is not
@@ -55,6 +43,8 @@
 !ST_Control    = $80
 !ST_Morph      = $80
 !ST_Life3      = $80
+!ST_Dance      = $80
+!ST_Rage       = $80
 
 
 ; +===============================+
