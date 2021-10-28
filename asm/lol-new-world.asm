@@ -66,3 +66,11 @@ incsrc "patches/events/relm-interceptor.asm"
 ; on loan from Bropedio; I haven't scrutinized these, just assuming they're going to work as advertised
 incsrc "patches/Bropedio/golem-restrictions.asm" ; omit when building against 2.1
 incsrc "patches/Bropedio/inventory-limits.asm"
+
+
+; Config screen header
+
+table "patches/data/c3.tbl",rtl
+
+org $C33BBA
+db "LOL New World 1.0.0a",$00
