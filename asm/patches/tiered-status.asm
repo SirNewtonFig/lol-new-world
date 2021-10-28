@@ -11,6 +11,10 @@ org !TieredStatus_freeXX
 StamCheck:
   PHX
   PHY
+
+  CPY #$08
+  BCS .default      ; Use default threshold for enemies
+
   LDY $00
   LDA $00
   PHA               ; Store initial threshold of 0
@@ -49,6 +53,7 @@ StamCheck:
 
   PLA               ; Retrieve stashed threshold
   BNE +
+.default
   LDA #$80          ; Default threshold of 128 if no status threshold found
 + PLY
   PLX
