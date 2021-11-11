@@ -26,10 +26,7 @@ incsrc "patches/half-atb-stumble.asm"
 !StamDogBlock_freeXX = HalfATBStumble_EOF
 incsrc "patches/stam-dog-block.asm"
 
-!RunicCounter_freespace = StamDogBlock_EOF
-incsrc "patches/runic-counter.asm"
-
-!HalfTurnBlitz_freespace = RunicCounter_EOF
+!HalfTurnBlitz_freespace = StamDogBlock_EOF
 incsrc "patches/half-atb-blitz-failure.asm"
 
 !MorphMPTurbo_freespace = HalfATBBlitzFailure_EOF
@@ -53,6 +50,7 @@ incsrc "patches/vigor-based-counter.asm"
 incsrc "patches/tweak-stumble-rate.asm"
 incsrc "patches/crit-fishing.asm"
 incsrc "patches/not-so-near-fatal.asm"
+incsrc "patches/runic-defend.asm"
 
 
 ; data/description edits
