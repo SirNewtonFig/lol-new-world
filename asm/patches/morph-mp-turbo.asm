@@ -61,7 +61,13 @@ TurboWrapper:         ; Get correct X offset, then call TurboCalc
 
 ValiditySlice:
   LDA $0003,X         ; get spell's MP cost from menu data
+  PHX
+  PHA
+  LDA $0B,S
+  TAX
+  PLA
   JSR TurboCalc       ; x1.5 if Morphed
+  PLX
   CMP $3A4C           ; compare to Caster MP + 1, capped at 255
   RTL
 

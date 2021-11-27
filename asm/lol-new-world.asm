@@ -51,6 +51,7 @@ incsrc "patches/tweak-stumble-rate.asm"
 incsrc "patches/crit-fishing.asm"
 incsrc "patches/not-so-near-fatal.asm"
 incsrc "patches/runic-defend.asm"
+incsrc "patches/mp-crit-refresh.asm" ; TODO: remove when moving to 2.1 base
 
 
 ; data/description edits
