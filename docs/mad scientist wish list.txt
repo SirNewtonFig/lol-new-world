@@ -57,9 +57,6 @@ Some of this is developed ideas, some are undeveloped ideas
 							--Spellcast rate up (use Veil)
 							??MP+ 25%/50% ??
 							
-	Edgar					Raises base magic 30 -> 42
-							Lower Bio Blasters power 45 -> 30
-							
 	Terra:					Carbunkl to MP+20 / Mag+1
 							Zoneseek to MP+20 / Stam+1
 							Tritotch to MP+40
