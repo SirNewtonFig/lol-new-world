@@ -1,4 +1,6 @@
 CANNOT RELEASE NEXT VERSION WITHOUT THESE
+	
+	Bugs & Glitches:		Any glitch fixes
 
 	Fractional Defense:		Damage taken from fractional damage is Power * (160-stam)/128
 							
@@ -7,13 +9,9 @@ CANNOT RELEASE NEXT VERSION WITHOUT THESE
 	Tools:					Autocrossbow's power is just straight 255, no Schematics
 	
 	Sketch:					Fail Sketch is only half a turn
-	
-	enemy Mg.def:			Aggressively re-raise this back to 150, ESPECIALLY on any enemy with an elemental weakness
-	
-	Elemental:				Nerf
-	
-	Endgame Equipment:		Less stats, higher EL
-	
+
+VERSIONS AFTER THAT
+
 	Enemy regen				Can go over 255
 	
 	Heiji's Coin:			Cheats on Cover and Counter
@@ -23,14 +21,15 @@ CANNOT RELEASE NEXT VERSION WITHOUT THESE
 							Rage attacks may crit (natural crit rate, boosted by "critical rate up")
 							
 	Spd-rev-fill			Speed-based pre-fill of ATB after being revived
-
-WOULD BE NICE, BUT NOT STRICTLY REQUIRED FOR RELEASE OF LOL NEW WORLD
-							
-	Locke					"Bulwark" to replace Steal/Mug as a lategame relic option
-							Checks Cover twice. Relic grants Cover
 						
 	
 UNDEVELOPED IDEAS
+
+	Bro's SOS Idea:			SOS Remedy
+							Image
+							???
+							Sir Newton Fig should like this. Could even change Terra's auto-morph
+							pendant to use these instead of auto-haste and auto-regen
 
 	Slots:					something, something, gains "Schematics" boost somewhere
 							Really, just gains more slots later on?
@@ -42,14 +41,10 @@ UNDEVELOPED IDEAS
 	Counter-attack:			Tiered counter-attack, insted of stat-based?
 							Spd-based counter-attack?
 							
-	Bro's SOS Idea:			SOS Remedy
-							Image
-							???
-							Sir Newton Fig should like this. Could even change Terra's auto-morph
-							pendant to use these instead of auto-haste and auto-regen
+	Locke					"Bulwark" to replace Steal/Mug as a lategame relic option
+							Checks Cover twice. Relic grants Cover
 							
-usME or Zone Doctor stuff, don't bother the asm coders
-Some of this is developed ideas, some are undeveloped ideas
+UNDEVELOPED usME IDEAS
 							
 	?Radiant Gown?:			(temp) re-named to "Artist's Gown"
 							Stats changes to Spd/Stam +5
@@ -70,3 +65,11 @@ Some of this is developed ideas, some are undeveloped ideas
 	
 	?Mogoon?:				Mogoon Seal with half-turn item?
 	?Dragoon?:				Upgraded Dragoon Seal in WoR for Edgar?
+	
+BALANCE STUFF
+
+	enemy Mg.def:			Aggressively re-raise this back to 150, ESPECIALLY on any enemy with an elemental weakness
+	
+	Elemental:				Nerfs discussed
+	
+	Endgame Equipment:		Less stats, higher EL
