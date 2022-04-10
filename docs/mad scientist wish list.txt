@@ -21,7 +21,14 @@ VERSIONS AFTER THAT
 							Rage attacks may crit (natural crit rate, boosted by "critical rate up")
 							
 	Spd-rev-fill			Speed-based pre-fill of ATB after being revived
-						
+	
+	Mobliz					Life Bell mini-game isn't stupid
+
+ONE CAN ALWAYS DREAM
+
+	Divergent Paths			Merged into LNW
+	
+	Divergent Paths, WoR	Three Scenarios 2.0; in the WoR
 	
 UNDEVELOPED IDEAS
 
