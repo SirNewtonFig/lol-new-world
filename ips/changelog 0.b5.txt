@@ -1,0 +1,21 @@
+changelog:
+	Edgar - base mg.power raised 30 -> 42
+	Bio Blaster - Power dropped 45 -> 30
+	Mythril Knife - Text no longer says "can be thrown"
+	Sealed Gate - 3rd Switchblade changed to Ghost Ring
+	Narshe Mines - Moogle Charm reverted to Tincture
+	Crusader - Teaches Bolt 3 instead of Melt
+	Celes - Level 30 natural magic is Melt instead of Bolt 3
+	Vig/MP EL Bonus - Replaces Mag/Stam bonus
+	Tritoch - Now gives vig/MP
+	Zoneseek - Now gives stam/MP
+	Carbunkl - Now gives mag/MP
+	Meditate Blitz - Renamed to Sutra
+	Poison Claw - Renamed to Snakebite
+	Fire Claw - Name reverted to Hell Claw
+	
+	Utility Belt	- New Relic for Half-Turn Item effect
+						Found in post-IMF Narshe, Tincture House
+						Locke, Mog, Gau
+						Spd+3, Eva+10
+						Trades to Mirage Vest in Colosseum
