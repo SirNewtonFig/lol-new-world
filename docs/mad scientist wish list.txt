@@ -1,18 +1,38 @@
 CANNOT RELEASE NEXT VERSION WITHOUT THESE
 	
 	Bugs & Glitches:		Any glitch fixes
-
-	Fractional Defense:		Damage taken from fractional damage is Power * (160-stam)/128
 							
 	Retort:					Balanced Retort discussed. ?Prolly increase Cover/Counter, self-heal, counters with Dispatch, or can DA?
 	
 	Tools:					Autocrossbow's power is just straight 255, no Schematics
 	
+	??Utility Belt??		Half-turn Item on new Relic: Utility Belt. (Mog and Gau have it?)
+							Also, re-consider WHEN Locke gets half-turn Item
+	
+	Sabin					Poison Claws -> Snakebite
+							Fire Claws -> Hell Claw
+							Meditate -> Sutra
+							
+	Terra:					Carbunkl to MP+20 / Mag+1
+							Zoneseek to MP+20 / Stam+1
+							Tritotch to MP+20 / Vig +1
+							
+	Daryl's					Demonsbane early, Man Eater later?
+							
+NEXT ON AGENDA
+
+	Fractional Defense:		Damage taken from fractional damage is Power * (160-stam)/128
+	
+	Bushido:				Flurry and Tempest may randomly crit (spd/512 chance)
+
 	Sketch:					Fail Sketch is only half a turn
 
-VERSIONS AFTER THAT
+	Poison:					Doesn't glitch the screen out when walking
+	
+	Counter-Attack:			Reverts to 50%. Maybe with some equipment to raise it to 75% (like with spellcast)
+							ALTERNATE: Speed-based, but grows MUCH more slowly then current (maybe just 2/3 at 96+ speed or something)
 
-	Enemy regen				Can go over 255
+	Slots:					Slot results (and reels?) spaced throughout game better
 	
 	Heiji's Coin:			Cheats on Cover and Counter
 	
@@ -21,15 +41,42 @@ VERSIONS AFTER THAT
 							Rage attacks may crit (natural crit rate, boosted by "critical rate up")
 							
 	Spd-rev-fill			Speed-based pre-fill of ATB after being revived
-	
-	Mobliz					Life Bell mini-game isn't stupid
 
+SOMETIME LATER
+
+	Enemy regen				Can go over 255
+	
+	Soft Enrage				As xy time passes, ATB builds
+	
+	Focus Fire				Some foes focus fire squishy player units
+	
+	AI Script				More scripting space for better "soft enrage" options
+	
+	WoB Exp Curve			Lower exp gains in IMF
+							Raise exp gains in Sealed Cave
+	
+	Elemental Multipler		x1.5 for Weakness, x2/3 for Resistance
+	
+	Endgame Equipment:		Less stats
+	
+	MP						Nerf player's MP game in WoR.
+								Raise MP costs?
+								Lower base MP amount?
+								MP healing is fractional, rather than static?
+	
 ONE CAN ALWAYS DREAM
 
 	Divergent Paths			Merged into LNW
 	
 	Divergent Paths, WoR	Three Scenarios 2.0; in the WoR
 	
+	Mobliz					Life Bell mini-game isn't stupid
+	
+	
+*****************************************************************************************************
+*****************************************************************************************************
+*****************************************************************************************************
+
 UNDEVELOPED IDEAS
 
 	Bro's SOS Idea:			SOS Remedy
@@ -37,21 +84,14 @@ UNDEVELOPED IDEAS
 							???
 							Sir Newton Fig should like this. Could even change Terra's auto-morph
 							pendant to use these instead of auto-haste and auto-regen
-
-	Slots:					something, something, gains "Schematics" boost somewhere
-							Really, just gains more slots later on?
-							Deschain liked Joker. Could even just ... re-randomize Slots, lol
 							
 	Duncan:					Gives Gauntlent effect to physical Blitzes instead of giving Bum Rush
 							MY END would be setting Bum Rush to lvl.30 capstone, 210 power
 							
-	Counter-attack:			Tiered counter-attack, insted of stat-based?
-							Spd-based counter-attack?
-							
 	Locke					"Bulwark" to replace Steal/Mug as a lategame relic option
 							Checks Cover twice. Relic grants Cover
 							
-UNDEVELOPED usME IDEAS
+	Healing Shiv			Remove. Have half-turn Item now
 							
 	?Radiant Gown?:			(temp) re-named to "Artist's Gown"
 							Stats changes to Spd/Stam +5
@@ -59,24 +99,6 @@ UNDEVELOPED usME IDEAS
 							--Spellcast rate up (use Veil)
 							??MP+ 25%/50% ??
 							
-	Terra:					Carbunkl to MP+20 / Mag+1
-							Zoneseek to MP+20 / Stam+1
-							Tritotch to MP+40
-							Gets the Mag/MP espers in WoB, instead of waiting until Tritoch
-							
 	?Healing:?				Alongside the nerfed Cure 2 and Cure 3 power (20 and 30 respectively)
 							Raise MP costs to 24 and 48
 							Raise RegenX MP cost to 64
-							
-	Boss:					More ways to encourage going dps against boss (higher regen? scripting?)
-	
-	?Mogoon?:				Mogoon Seal with half-turn item?
-	?Dragoon?:				Upgraded Dragoon Seal in WoR for Edgar?
-	
-BALANCE STUFF
-
-	enemy Mg.def:			Aggressively re-raise this back to 150, ESPECIALLY on any enemy with an elemental weakness
-	
-	Elemental:				Nerfs discussed
-	
-	Endgame Equipment:		Less stats, higher EL
