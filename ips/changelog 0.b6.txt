@@ -1,0 +1,16 @@
+changelog:
+	Frostbite correctly casts Drain
+	Stray learn set Sleep -> Scan
+	Maduin learn set Muddle -> Sleep
+	Blood Sword and Soul Sabre returned to original locations
+	Soul Sabre BPow restored to 175
+	Blood Sword BPow nerfed down to 125
+	Drain nerfed to proper t2. 60 power, 16 MP
+	Merton's name reverted to Merton
+	Man Eater and Avenger/Demonsbane swapped.
+	Avenger/Demonsbane also has "kills undead" effect
+	Ninja Gear no longer raises critica hit rate
+	Claw Name changes
+		Stormfang -> Stormtalon
+		Snakebite -> Serpentfang
+		Hell Claw -> Hellclaw
