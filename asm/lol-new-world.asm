@@ -26,10 +26,7 @@ incsrc "patches/half-atb-stumble.asm"
 !StamDogBlock_freeXX = HalfATBStumble_EOF
 incsrc "patches/stam-dog-block.asm"
 
-!RunicCounter_freespace = StamDogBlock_EOF
-incsrc "patches/runic-counter.asm"
-
-!HalfTurnBlitz_freespace = RunicCounter_EOF
+!HalfTurnBlitz_freespace = StamDogBlock_EOF
 incsrc "patches/half-atb-blitz-failure.asm"
 
 !MorphMPTurbo_freespace = HalfATBBlitzFailure_EOF
@@ -45,6 +42,11 @@ incsrc "patches/half-turn-item-flag.asm"
 incsrc "patches/half-atb-sketch-failure.asm"
 
 ; next = HalfTurnSketchFailure_EOF
+
+
+; Currently unused
+;!RunicCounter_freespace = ??_EOF
+;incsrc "patches/runic-counter.asm"
 
 
 ; inline patches (no new freespace claimed):
