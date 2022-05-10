@@ -38,7 +38,10 @@ incsrc "patches/individual-reprisal.asm"
 !HalfTurnItemFlag_freespace = IndividualReprisal_EOF
 incsrc "patches/half-turn-item-flag.asm"
 
-; next = HalfTurnItemFlag_EOF
+!HalfTurnSketch_freespace = HalfTurnItemFlag_EOF
+incsrc "patches/half-atb-sketch-failure.asm"
+
+; next = HalfTurnSketchFailure_EOF
 
 
 ; inline patches (no new freespace claimed):
