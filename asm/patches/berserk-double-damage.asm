@@ -5,6 +5,10 @@
 ; Gau id = $300B
 ; $3A93 =? Rage
 
+; C2/2dc1 is function for loading Rage's status immunities
+; C2/04d4 is what commands a berserked character may use
+; c2/163b determines umaro's attacks
+
 org $C2337C				; where Berserk's multiplier is found
 	JSL BerserkDoubleMultiplier
 	NOP
