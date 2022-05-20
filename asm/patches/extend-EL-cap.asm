@@ -3,36 +3,36 @@
 ; which means it now breaks from BNW lvl values. Oh well
 
 org $ED8BCA
-DB $18,$00		; Level 1 = 24
+DB $10,$00		; Level 1 = 16			Get Espers
 DB $30,$00		; Level 2 = 48
-DB $90,$00		; Level 3 = 144
-DB $20,$01		; Level 4 = 288
-DB $E0,$01		; Level 5 = 480
-DB $00,$03		; Level 6 = 768
-DB $80,$04		; Level 7 = 1152
-DB $57,$06		; Level 8 = 1632
-DB $A0,$08		; Level 9 = 2208
-DB $40,$0B		; Level 10 = 2880
-DB $40,$11		; Level 11 = 4416
-DB $40,$14		; Level 12 = 5184
-DB $00,$18		; Level 13 = 6144
-DB $80,$1C		; Level 14 = 7296
-DB $C0,$21		; Level 15 = 8640
-DB $C0,$27		; Level 16 = 10176
-DB $80,$2E		; Level 17 = 11904
-DB $00,$36		; Level 18 = 13824
-DB $40,$3E		; Level 19 = 15936
-DB $40,$47		; Level 20 = 18240
-DB $40,$59		; Level 21 = 22848
-DB $C0,$63		; Level 22 = 25536
-DB $C0,$6F		; Level 23 = 28608
-DB $40,$7D		; Level 24 = 32064
-DB $40,$8C		; Level 25 = 35904
-DB $40,$9E		; Level 26 = 40512
-DB $40,$B3		; Level 27 = 45888
-DB $40,$CB		; Level 28 = 52032
-DB $40,$E6		; Level 29 = 58944
-DB $FF,$FF		; Level 30 = 65535
+DB $50,$00		; Level 3 = 80
+DB $70,$00		; Level 4 = 112
+DB $B0,$00		; Level 5 = 176
+DB $FF,$00		; Level 6 = 255
+DB $9C,$01		; Level 7 = 412
+DB $80,$02		; Level 8 = 640			post-IMF				640
+DB $39,$03		; Level 9 = 825
+DB $29,$04		; Level 10 = 1065
+DB $5E,$05		; Level 11 = 1374
+DB $EC,$06		; Level 12 = 1772
+DB $EE,$08		; Level 13 = 2286
+DB $86,$0B		; Level 14 = 2950
+DB $00,$0F		; Level 15 = 3840		World of Ruin			3840
+DB $8C,$11		; Level 16 = 4492		
+DB $88,$14		; Level 17 = 5256
+DB $06,$18		; Level 18 = 6150
+DB $1C,$1C		; Level 19 = 7196
+DB $E4,$20		; Level 20 = 8420
+DB $7A,$26		; Level 21 = 9850
+DB $00,$2D		; Level 22 = 11520		Found Friends			11520
+DB $08,$33		; Level 23 = 13064
+DB $A0,$41		; Level 24 = 16800		
+DB $6A,$4A		; Level 25 = 19050
+DB $64,$54		; Level 26 = 21604
+DB $B4,$5F		; Level 27 = 24500
+DB $84,$6C		; Level 28 = 27780		Kefka's Tower			24320
+DB $0E,$7B		; Level 29 = 31502
+DB $8D,$8B		; Level 30 = 35725		
 
 
 ; modify CMP values in synchysi's esper_changes.asm so as to match the extended EL cap
