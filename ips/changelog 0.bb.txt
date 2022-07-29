@@ -61,6 +61,10 @@ Other Design & Balance
 		Auto-Float
 		Pre-emptive / Grants initiative
 		Raises random spellcast rate
+	Rock, Tentacle, Shrapnel
+		Reverted to physical
+	Atma
+		Lo/Ed only, but stronger in 2 hands
 thzfunnymzn note to self
 	wor kohlingen: triton, demonsbane, hellclaw, frostbite, dice
 	giants do not have warp whistles as steals (Dried Meat / Slim Jim)
