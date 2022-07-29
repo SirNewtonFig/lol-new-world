@@ -70,6 +70,7 @@ incsrc "patches/events/relm-interceptor.asm"
 ; on loan from Bropedio; I haven't scrutinized these, just assuming they're going to work as advertised
 incsrc "patches/Bropedio/golem-restrictions.asm" ; omit when building against 2.1
 incsrc "patches/Bropedio/inventory-limits.asm"
+incsrc "patches/Bropedio/bro-gp-toss-level-damage-only.asm"
 
 
 ; Config screen header
@@ -77,4 +78,4 @@ incsrc "patches/Bropedio/inventory-limits.asm"
 table "patches/data/c3.tbl",rtl
 
 org $C33BBA
-db "LOL New World 1.0.0a",$00
+db "LOL New World 1.1.0",$00
