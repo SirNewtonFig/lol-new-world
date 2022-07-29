@@ -1,0 +1,68 @@
+Mechanics
+	EL cap extended to 30.
+		EXP needed for each EL significantly lowered
+			Magic Points gained from combat reverted to BNW settings
+		HP/MP levels reduced to +15 (weak) and +30 (strong)
+		Stats gained from equipment lowered
+	Counter-attacks now speed-based (48 + spd/2)/128
+	half-turn failure for sketch
+	berserk multiplier is +100%
+		for now: clubs grant berserk immunity
+			will be removed whenever a code cleans up my berserk-multiplier code
+		Hyper Wrist removed from the game
+QoL
+	Added few extra Warp Whistles in WoB, especially early on
+	Make Demonsbane cost reduced to 5000
+	WoR Kohlingen sells Hellclaws
+	Aurabolt learn level dropped lvl.22 -> lvl.21
+	Description on Darts fixed. Darts have no spellcast.
+		Darts are not buyable, and trade for Scrap at Colosseum
+	Club buyable in post-IMF Narshe, WoR Maranda
+		wight, wraith, revenant have mystery egg / snake oil for steals
+	Scrappers are found in the forests around S.Figaro
+		Just in case Locke needs to steal some Slim Jims during his scenario
+	WoB Defibrillator is found in the Imperial Camp treasure room near the Sealed Cave
+		Still buyable in WoR Figaro Castle
+Other Esper & Magic Changes
+	Esper EL bonuses
+		Stray (Gau/Sabin): Is now an HP/stam esper
+		Seraph (Celes/Setzer): Is now an MP/stam esper
+		Alexander (Celes): Is now an HP/mag esper
+	Esper learnset
+		Zoneseek teaches Rasp instead of Warp
+	Magic
+		Warp now costs 48 MP to cast, 20 SP to buy.
+Other Design & Balance
+	Moogle Charm back to original setting 
+		(found in WoR Moogle Cave)
+		Trades for Sage Stone
+	Muscle Belt trade changed to Nirvana Band
+	White Cape, Amulet, and Spirit Stone are now one-of-a-kind relics found in WoR dungeons
+		Trades for Ninja Stars in the Colosseum
+	Edgar base mag.pwr and Bio Blaster power reverted
+		Edgar may equip Sage Stone
+	Utility Belt is Locke/Shadow/Gogo
+	Back Guard & Gale Hairpin removed. Zephyr Cape inherits "pre-emptive" effect
+		(Pre-emptive effect to be changed whenever a code decides too)
+	Skull Cap:
+		Upgrade to Tiger Mask. +5/+3 Vig/Spd. Raises physical output. 
+		Sa/Ga/Um. 20/20 def. +20 p.ev
+		Tiger Mask is Um too now
+	Cat Hood resists Earth
+	Radiant Gown becomes like Mirage Vest.
+		+5 mag/spd, auto-haste, raise critical hit.
+		Moogle Hide gets +5 stam/spd
+	Sleep removed. In it's place: Blind.
+		Blind & Sleep now have Muddle targetting
+	Merton: Terra has it now. She learns RegenX earlier (loses Imp)
+		Celes learns RegenX at lvl.30
+	Pendant:
+		Auto-Morph
+		Auto-Float
+		Pre-emptive / Grants initiative
+		Raises random spellcast rate
+thzfunnymzn note to self
+	wor kohlingen: triton, demonsbane, hellclaw, frostbite, dice
+	giants do not have warp whistles as steals (Dried Meat / Slim Jim)
+	?katanasoul does not drop valiance?
+	Raze still lists Fire/Wind

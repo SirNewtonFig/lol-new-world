@@ -1,3 +1,0 @@
-speed-based counters
-half-turn failure for sketch
-berserk multiplier is +100%
