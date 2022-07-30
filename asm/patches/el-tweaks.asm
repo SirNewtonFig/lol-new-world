@@ -35,4 +35,4 @@ ELTable:
   dw $0303 ; $0D - 2Spd - Ifrit, Fenrir
   dw $0505 ; $0E - 2Stm - Starlet, Maduin
   dw $0707 ; $0F - 2Mag - Shiva, Shoat, Bahamut
-  dw $0000 ; $10 - null - Raiden?
+  dw $0305 ; $10 - Spd/Stam - Odin
