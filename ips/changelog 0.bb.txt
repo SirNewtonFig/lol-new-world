@@ -25,9 +25,7 @@ QoL
 		Still buyable in WoR Figaro Castle
 Other Esper & Magic Changes
 	Esper EL bonuses
-		Stray (Gau/Sabin): Is now an HP/stam esper
-		Seraph (Celes/Setzer): Is now an MP/stam esper
-		Alexander (Celes): Is now an HP/mag esper
+		Alexander (Celes): Vig/Spd
 	Esper learnset
 		Zoneseek teaches Rasp instead of Warp
 	Magic
