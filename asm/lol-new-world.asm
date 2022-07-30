@@ -57,6 +57,7 @@ incsrc "patches/runic-defend.asm"
 incsrc "patches/mp-crit-refresh.asm" ; TODO: remove when moving to 2.1 base
 incsrc "patches/controllable-colosseum.asm"
 incsrc "patches/extend-EL-cap.asm"
+incsrc "patches/atma-lnw.asm"
 
 
 ; data/description edits

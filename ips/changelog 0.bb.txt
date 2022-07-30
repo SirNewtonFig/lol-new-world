@@ -40,7 +40,7 @@ Other Design & Balance
 	White Cape, Amulet, and Spirit Stone are now one-of-a-kind relics found in WoR dungeons
 		Trades for Ninja Stars in the Colosseum
 	Edgar base mag.pwr and Bio Blaster power reverted
-		Edgar may equip Sage Stone
+	Locke may equip Paladin Kite. Edgar may equip Hero Shield.
 	Utility Belt is Locke/Shadow/Gogo
 	Back Guard & Gale Hairpin removed. Zephyr Cape inherits "pre-emptive" effect
 		(Pre-emptive effect to be changed whenever a code decides too)
@@ -63,11 +63,11 @@ Other Design & Balance
 		Raises random spellcast rate
 	Rock, Tentacle, Shrapnel
 		Reverted to physical
-	Apocalypse & Punisher swap spellcasts
+	Apocalypse & Punisher swap spellcasts. Apocalypse battle power 180 -> 210
 	Lazy Shell loses elemental defenses
-	Atma: Lo/Ed only, but stronger in 2 hands
-	Excalibur: Changed to Ultima. Atma graphics, but basically Valiance
-	Zantetsuken: Remove dw, put "may cast Drain"
+	Excalibur: Removed
+	Atma: Ultima. Kaiser drop. Te/Lo/Ed. Vig-based, but dual-wield.
+	Zantetsuken: Remove dw & counter, "May cast Break"
 thzfunnymzn note to self
 	wor kohlingen: triton, demonsbane, hellclaw, frostbite, dice
 	giants do not have warp whistles as steals (Dried Meat / Slim Jim)
