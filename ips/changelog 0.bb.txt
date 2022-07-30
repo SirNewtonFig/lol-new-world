@@ -63,7 +63,6 @@ Other Design & Balance
 		Raises random spellcast rate
 	Rock, Tentacle, Shrapnel
 		Reverted to physical
-	Apocalypse & Punisher swap spellcasts. Apocalypse battle power 180 -> 210
 	Lazy Shell loses elemental defenses
 	Excalibur: Removed
 	Atma: Ultima. Kaiser drop. Te/Lo/Ed. Vig-based, but dual-wield.
