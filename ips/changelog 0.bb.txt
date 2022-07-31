@@ -6,10 +6,6 @@ Mechanics
 		Stats gained from equipment lowered
 	Counter-attacks now speed-based (48 + spd/2)/128
 	half-turn failure for sketch
-	berserk multiplier is +100%
-		for now: clubs grant berserk immunity
-			will be removed whenever a code cleans up my berserk-multiplier code
-		Hyper Wrist removed from the game
 QoL
 	Added few extra Warp Whistles in WoB, especially early on
 	Make Demonsbane cost reduced to 5000

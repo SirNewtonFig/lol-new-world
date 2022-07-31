@@ -41,10 +41,10 @@ incsrc "patches/half-turn-item-flag.asm"
 !HalfTurnSketch_freespace = HalfTurnItemFlag_EOF
 incsrc "patches/half-atb-sketch-failure.asm"
 
-!BerserkDoubleMultiplier_freespace = HalfTurnSketchFailure_EOF
-incsrc "patches/berserk-double-damage.asm"
+; !BerserkDoubleMultiplier_freespace = HalfTurnSketchFailure_EOF
+; incsrc "patches/berserk-double-damage.asm"
 
-; next = BerserkDoubleMultiplier_EOF
+; next = HalfTurnItemFlag_EOF
 
 
 ; inline patches (no new freespace claimed):
