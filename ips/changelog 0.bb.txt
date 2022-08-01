@@ -27,6 +27,9 @@ Other Esper & Magic Changes
 	Magic
 		Warp now costs 48 MP to cast, 20 SP to buy.
 Other Design & Balance
+	Umaro
+		Vigor and p.def returned to normal, due to Toss and Tackle having
+		hard-coded poewrs (2H club doesn't cause problems)
 	Moogle Charm back to original setting 
 		(found in WoR Moogle Cave)
 		Trades for Sage Stone
