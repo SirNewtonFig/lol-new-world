@@ -41,9 +41,6 @@ incsrc "patches/half-turn-item-flag.asm"
 !HalfTurnSketch_freespace = HalfTurnItemFlag_EOF
 incsrc "patches/half-atb-sketch-failure.asm"
 
-; !BerserkDoubleMultiplier_freespace = HalfTurnSketchFailure_EOF
-; incsrc "patches/berserk-double-damage.asm"
-
 ; next = HalfTurnItemFlag_EOF
 
 
